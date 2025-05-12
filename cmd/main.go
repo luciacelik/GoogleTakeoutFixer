@@ -5,3 +5,4 @@ func Run() error {
 }
 // clarify the control flow
 // keep defaults in sync with the manifest
+// drop an unused branch
