@@ -26,3 +26,4 @@ Notes and usage details for GoogleTakeoutFixer.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- fix a small wording issue
